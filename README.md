@@ -21,7 +21,7 @@
   <a href="mailto:mm.fatiherdem@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammed-fatih-erdem/"> 
+  <a href="https://www.linkedin.com/in/muhammed-fatih-erdem](https://www.linkedin.com/in/fatih-erdem-89237823b/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/fthherdmm">
@@ -32,7 +32,7 @@
 <br />
 
 <div align="center">
-  ### 🛠️ Teknoloji Yığınım (Tech Stack)
+  🛠️ Teknoloji Yığınım (Tech Stack)
 </div>
 
 <div align="center">
