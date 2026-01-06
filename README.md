@@ -67,7 +67,3 @@
 </div>
 
 <br />
-
-<p align="center">
-  Yüksek performanslı backend mimarileri ve modern yazılım süreçleri üzerine işbirliği için benimle iletişime geçebilirsiniz.
-</p>
