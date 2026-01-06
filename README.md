@@ -31,7 +31,9 @@
 
 <br />
 
-### 🛠️ Teknoloji Yığınım (Tech Stack)
+<div align="center">
+  ### 🛠️ Teknoloji Yığınım (Tech Stack)
+</div>
 
 <div align="center">
 
@@ -59,9 +61,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fthherdmm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Muhammed Fatih Erdem Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthherdmm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fthherdmm&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br />
