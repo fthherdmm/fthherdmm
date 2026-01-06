@@ -21,7 +21,7 @@
   <a href="mailto:mm.fatiherdem@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammed-fatih-erdem](https://www.linkedin.com/in/fatih-erdem-89237823b/"> 
+  <a href="https://www.linkedin.com/in/muhammed-fatih-erdem/](https://www.linkedin.com/in/fatih-erdem-89237823b/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/fthherdmm">
@@ -31,9 +31,7 @@
 
 <br />
 
-<div align="center">
-  🛠️ Teknoloji Yığınım (Tech Stack)
-</div>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
 
@@ -48,13 +46,19 @@
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
   <img src="https://img.shields.io/badge/MediatR-clean_architecture?style=for-the-badge&logo=nuget&logoColor=white&color=512BD4" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   
   <br /> <br />
 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <br /> <br />
+
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
 </div>
 
@@ -67,5 +71,5 @@
 <br />
 
 <p align="center">
-  Yüksek performanslı backend mimarileri ve modern yazılım geliştirme süreçleri üzerine işbirliği veya fikir alışverişi için benimle iletişime geçebilirsiniz.
+  Yüksek performanslı backend mimarileri ve modern yazılım süreçleri üzerine işbirliği için benimle iletişime geçebilirsiniz.
 </p>
